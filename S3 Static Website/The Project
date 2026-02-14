@@ -1,0 +1,6 @@
+This project was easy at first, but quickly turned into a little bit of a headache!
+I wanted to get the website working with the Full SSL configuration that I usually use for my homelab sites, but could not get it to work.
+
+Configuring the bucket was easy enough. I quickly wrote some HTML to make possibly the most basic website imaginable:
+
+![S3 bucket](https://github.com/Adelga99/AWS-Projects/blob/main/S3%20Static%20Website/images/s3%20bucket.png "S3 bucket")
