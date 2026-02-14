@@ -3,4 +3,4 @@ I wanted to get the website working with the Full SSL configuration that I usual
 
 Configuring the bucket was easy enough. I quickly wrote some HTML to make possibly the most basic website imaginable:
 
-![S3 bucket](https://github.com/Adelga99/AWS-Projects/blob/main/S3%20Static%20Website/images/s3%20bucket.png "S3 bucket")
+![alt text](https://github.com/Adelga99/AWS-Projects/blob/main/S3%20Static%20Website/images/s3%20bucket.png "S3 bucket")
