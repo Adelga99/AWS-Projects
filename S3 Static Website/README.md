@@ -6,5 +6,7 @@
 
 
 <p>Because AWS doesn't trust CloudFlare as a CA, I had to set up a page rule under my domain to use Flex SSL so that I could route traffic through CF.</p>
+
 ![alt text](https://github.com/Adelga99/AWS-Projects/blob/main/S3%20Static%20Website/images/page%20rules.png)
+
 ![alt text](https://github.com/Adelga99/AWS-Projects/blob/main/S3%20Static%20Website/images/cloudflare%20config.png)
