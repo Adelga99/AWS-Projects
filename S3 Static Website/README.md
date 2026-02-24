@@ -3,3 +3,6 @@
 
 
 ![alt text](https://github.com/Adelga99/AWS-Projects/blob/main/S3%20Static%20Website/images/static%20website%20config.png)
+
+
+<p>Because AWS doesn't trust CloudFlare as a CA, I had to set up a page rule under my domain to use Flex SSL so that I could route traffic through CF</p>
