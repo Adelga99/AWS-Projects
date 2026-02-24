@@ -10,3 +10,8 @@
 ![alt text](https://github.com/Adelga99/AWS-Projects/blob/main/S3%20Static%20Website/images/page%20rules.png)
 
 ![alt text](https://github.com/Adelga99/AWS-Projects/blob/main/S3%20Static%20Website/images/cloudflare%20config.png)
+
+
+<p>Finally, I was able to get the website up and routed through CF!</p>
+
+![alt text](https://github.com/Adelga99/AWS-Projects/blob/main/S3%20Static%20Website/images/final%20product.png)
